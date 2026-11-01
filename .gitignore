@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+test_smart_lost_found.db
+.DS_Store
